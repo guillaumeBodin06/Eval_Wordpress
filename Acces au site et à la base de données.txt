@@ -1,0 +1,42 @@
+///////// FTP //////
+
+
+nom d'utilisateur : u100367124-studieval
+pass : 78212:!;ad986!54&
+
+
+Serveur / Host:
+access821237208.webspace-data.io
+
+Port:
+22
+
+Protocole:
+SFTP
+
+
+
+//////////// Accès au site /////////////
+
+user_login: admin
+user_pass: COZb#uGGbxCh)w@RdynfdqvM
+
+
+
+
+///////////// John password ////////////
+
+mail: john@test.com
+user_login: John
+user_pass: $P$BKDOvtzMqNM/fNlLz7CPh6VdMA7AKP
+
+
+
+///////////// Accès à la base de données ////////////////
+
+phpmyadmin via mon hebergement ionos
+
+Nom d'hôte: db5002606600.hosting-data.io
+Port: 3306
+Nom d'utilisateur: dbu353783
+mdp : azfa!&^58Ezf15988P::
